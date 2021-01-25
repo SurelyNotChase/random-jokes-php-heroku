@@ -70,7 +70,7 @@
 	header('content-type:application/json');      			// tell the requestor that this is JSON
 	header('Access-Control-Allow-Origin: *');     			// turn on CORS
 	header('X-this-430-service-is-kinda-lame: true');   // a custom header 
-	header('X-Author-Name: Chase');   // a custom header 
+	header('X-Author-Name: TheLegendHimself');   // a custom header 
 	
 	
 	// VII. Send the content
